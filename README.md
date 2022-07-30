@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Fermin Alvarez</h1>
-<h3 align="center">Soy un programador que le gusta estar siempre mejorando 😄😄</h3>
+<h1 align="center">Hola 👋 soy Fermin Alvarez</h1>
+<h3 align="center">Soy un programador al que le gusta estar siempre mejorando 😄😄</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferminalvarez" alt="ferminalvarez" /></a> </p>
 
