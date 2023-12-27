@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ferminalvarez" alt="ferminalvarez" /></a> </p>
 
-- 🌱 Me encuentro aprendiendo **ReactJs y NodeJs**
+- 🌱 Me encuentro aprendiendo **Spring Boot**
 
 - 📚 Actualmente estoy estudiando en Universidad Nacional del Sur **Ingeniería en Sistemas de Información**
 
